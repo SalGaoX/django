@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="efec2ee7-53b1-490d-9bad-77c51ef1c410" name="Ac66uB1_FTP" url="http://salgaox.asuscomm.com">
+      <webServer id="1f380932-e59a-4578-8782-24e59ab5488a" name="Ac66uB1_FTP" url="http://salgaox.asuscomm.com">
         <fileTransfer host="salgaox.asuscomm.com" port="21" rootFolder="/Docker/ftp/Web">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
